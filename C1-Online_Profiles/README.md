@@ -13,3 +13,4 @@ https://github.com/JMcKinney123
 https://www.linkedin.com/in/jason-mckinney-a24521158/
 
 ### Resume
+ liftoff-assignments/McKinneyResumeLC101.pdf 
